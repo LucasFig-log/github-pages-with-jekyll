@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Lucas Figueiredo
 
-I'm glad you are here. I plan to talk about ...
+Seja Bem vindo, Esta é a minha página do GitHub!
